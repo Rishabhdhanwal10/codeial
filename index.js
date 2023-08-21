@@ -2,10 +2,13 @@ const express = require('express');
 const env = require('./config/environment');
 const cookieParser = require('cookie-parser');
 const app = express();
+const dotenv = require('dotenv');
 
 require('./config/view-helpers')(app);
 
-const port = 8002;
+dotenv.config({path: './config.env'});
+
+const port = process.env.PORT;
 const expressLayouts = require('express-ejs-layouts');
 const db = require('./config/mongoose');
 const cors = require('cors');

@@ -5,6 +5,8 @@ const env = require('./environment');
 
 const User = require('../models/user');
 
+console.log(env.google_client_id);
+
 let opts = {
     jwtFromRequest: ExtractJWT.fromAuthHeaderAsBearerToken(),
     secretOrKey: env.jwt_secret_key
