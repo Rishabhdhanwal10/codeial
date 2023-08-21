@@ -1,0 +1,154 @@
+::1 - - [18/Aug/2023:18:31:36 +0000] "GET /undefined HTTP/1.1" 404 148 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+[0mGET / [32m200[0m 68.966 ms - 4533[0m
+[0mGET /users/sign-in [36m304[0m 9.057 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 6.092 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 3.059 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 2.091 ms - 159[0m
+[0mGET /users/sign-in [36m304[0m 19.802 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 6.308 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 2.096 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 0.961 ms - 159[0m
+[0mGET / [36m304[0m 50.865 ms - -[0m
+[0mGET /users/sign-in [36m304[0m 2.975 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 1.503 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 0.924 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 2.443 ms - 159[0m
+[0mGET / [36m304[0m 30.597 ms - -[0m
+[0mGET / [36m304[0m 32.334 ms - -[0m
+[0mGET /users/profile/64d07ca5c6304b5328b8b30b [36m302[0m 4.366 ms - 72[0m
+[0mGET / [36m304[0m 26.728 ms - -[0m
+[0mGET / [36m304[0m 28.544 ms - -[0m
+[0mGET /users/sign-in [36m304[0m 3.221 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 1.597 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 1.146 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 1.521 ms - 159[0m
+[0mGET / [36m304[0m 29.013 ms - -[0m
+[0mGET / [36m304[0m 65.128 ms - -[0m
+[0mGET /users/sign-in [36m304[0m 5.256 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 4.159 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 4.903 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 1.509 ms - 159[0m
+[0mPOST /users/create-session [36m302[0m 22.618 ms - 46[0m
+[0mGET / [36m304[0m 42.602 ms - -[0m
+[0mGET / [32m200[0m 44.241 ms - 6669[0m
+[0mGET /users/sign-out [36m302[0m 7.556 ms - 46[0m
+[0mGET / [32m200[0m 18.506 ms - 4533[0m
+[0mGET / [36m304[0m 24.076 ms - -[0m
+[0mGET / [32m200[0m 25.205 ms - 6669[0m
+[0mGET /users/sign-out [36m302[0m 7.040 ms - 46[0m
+[0mGET / [32m200[0m 21.449 ms - 4533[0m
+[0mGET / [36m304[0m 27.300 ms - -[0m
+[0mGET / [36m304[0m 25.075 ms - -[0m
+[0mGET /users/sign-in [36m304[0m 6.941 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 2.372 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 6.696 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 7.456 ms - 159[0m
+[0mGET /users/sign-in [32m200[0m 33.655 ms - 1255[0m
+[0mGET / [32m200[0m 62.652 ms - 4539[0m
+::1 - - [18/Aug/2023:20:16:19 +0000] "GET / HTTP/1.1" 500 2871 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:20:18:30 +0000] "GET / HTTP/1.1" 200 1746 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:20:18:30 +0000] "GET /undefined HTTP/1.1" 404 148 "http://localhost:8002/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:20:18:36 +0000] "GET /users/sign-in HTTP/1.1" 200 1288 "http://localhost:8002/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:20:18:48 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:20:18:48 +0000] "GET /undefined HTTP/1.1" 404 148 "http://localhost:8002/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:20:19:45 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:20:19:45 +0000] "GET /undefined HTTP/1.1" 404 148 "http://localhost:8002/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:20:19:47 +0000] "GET /users/sign-in HTTP/1.1" 304 - "http://localhost:8002/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:20:19:55 +0000] "POST /users/create-session HTTP/1.1" 302 72 "http://localhost:8002/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:20:19:55 +0000] "GET /users/sign-in HTTP/1.1" 304 - "http://localhost:8002/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:20:20:14 +0000] "GET /users/sign-in HTTP/1.1" 304 - "http://localhost:8002/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:20:20:22 +0000] "POST /users/create-session HTTP/1.1" 302 72 "http://localhost:8002/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:20:20:22 +0000] "GET /users/sign-in HTTP/1.1" 304 - "http://localhost:8002/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:20:20:50 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:20:20:50 +0000] "GET /undefined HTTP/1.1" 404 148 "http://localhost:8002/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:20:31:26 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:20:31:26 +0000] "GET /undefined HTTP/1.1" 404 148 "http://localhost:8002/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:20:31:28 +0000] "GET /users/sign-in HTTP/1.1" 304 - "http://localhost:8002/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:20:31:30 +0000] "GET /users/sign-up HTTP/1.1" 200 1444 "http://localhost:8002/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:20:31:51 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:20:31:51 +0000] "GET /undefined HTTP/1.1" 404 148 "http://localhost:8002/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:20:31:56 +0000] "GET /users/sign-in HTTP/1.1" 304 - "http://localhost:8002/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:20:32:01 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:20:32:01 +0000] "GET /undefined HTTP/1.1" 404 148 "http://localhost:8002/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:22:05:19 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:22:05:19 +0000] "GET /undefined HTTP/1.1" 404 148 "http://localhost:8002/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [19/Aug/2023:09:12:46 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [19/Aug/2023:09:12:46 +0000] "GET /undefined HTTP/1.1" 404 148 "http://localhost:8002/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+[0mGET / [32m200[0m 108.212 ms - 6675[0m
+[0mGET / [36m304[0m 79.580 ms - -[0m
+[0mGET / [36m304[0m 92.858 ms - -[0m
+[0mGET / [32m200[0m 38.600 ms - 6752[0m
+[0mGET / [36m304[0m 34.255 ms - -[0m
+::1 - - [19/Aug/2023:09:36:54 +0000] "GET / HTTP/1.1" 200 1823 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [19/Aug/2023:09:36:54 +0000] "GET /undefined HTTP/1.1" 404 148 "http://localhost:8002/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [19/Aug/2023:09:40:19 +0000] "GET / HTTP/1.1" 200 1842 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [19/Aug/2023:09:40:35 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+[0mGET / [32m200[0m 76.133 ms - 6752[0m
+[0mGET / [36m304[0m 62.462 ms - -[0m
+[0mGET / [36m304[0m 64.471 ms - -[0m
+[0mGET / [32m200[0m 24.873 ms - 4616[0m
+[0mGET /favicon.ico [33m404[0m 3.958 ms - 150[0m
+[0mGET /users/sign-in [32m200[0m 10.048 ms - 1332[0m
+[0mPOST /users/create-session [36m302[0m 5.579 ms - 46[0m
+[0mGET / [32m200[0m 23.787 ms - 6753[0m
+[0mGET / [32m200[0m 23.509 ms - 6753[0m
+[0mGET / [36m304[0m 64.660 ms - -[0m
+[0mGET / [36m304[0m 75.478 ms - -[0m
+[0mGET / [36m304[0m 62.021 ms - -[0m
+[0mGET / [32m200[0m 26.261 ms - 6753[0m
+[0mGET / [32m200[0m 23.255 ms - 6753[0m
+[0mGET / [32m200[0m 23.534 ms - 6753[0m
+[0mGET / [36m304[0m 62.645 ms - -[0m
+[0mGET / [32m200[0m 42.177 ms - 6753[0m
+[0mGET /users/sign-out [36m302[0m 9.772 ms - 46[0m
+[0mGET / [32m200[0m 24.938 ms - 4616[0m
+[0mGET /users/sign-in [36m304[0m 5.863 ms - -[0m
+[0mPOST /users/create-session [36m302[0m 4.668 ms - 46[0m
+[0mGET / [32m200[0m 20.009 ms - 6753[0m
+[0mGET / [32m200[0m 21.354 ms - 4616[0m
+[0mGET /users/sign-in [32m200[0m 2.825 ms - 1332[0m
+[0mPOST /users/create-session [36m302[0m 3.049 ms - 46[0m
+[0mGET / [32m200[0m 21.024 ms - 6752[0m
+[0mGET / [36m304[0m 73.706 ms - -[0m
+[0mGET / [32m200[0m 42.112 ms - 6753[0m
+[0mGET / [32m200[0m 23.015 ms - 6753[0m
+[0mGET / [36m304[0m 36.358 ms - -[0m
+[0mGET / [36m304[0m 27.084 ms - -[0m
+[0mGET /users/sign-out [36m302[0m 6.708 ms - 46[0m
+[0mGET / [32m200[0m 17.178 ms - 4616[0m
+[0mGET /users/sign-in [36m304[0m 6.636 ms - -[0m
+[0mPOST /users/create-session [36m302[0m 5.859 ms - 46[0m
+[0mGET / [32m200[0m 19.368 ms - 6753[0m
+[0mGET / [36m304[0m 30.139 ms - -[0m
+[0mGET / [36m304[0m 23.566 ms - -[0m
+[0mGET /users/sign-out [36m302[0m 4.607 ms - 46[0m
+[0mGET / [32m200[0m 18.090 ms - 4616[0m
+[0mGET / [36m304[0m 30.189 ms - -[0m
+[0mGET /users/sign-in [36m304[0m 6.791 ms - -[0m
+[0mPOST /users/create-session [36m302[0m 4.937 ms - 46[0m
+[0mGET / [32m200[0m 17.491 ms - 6752[0m
+[0mGET / [36m304[0m 60.884 ms - -[0m
+[0mGET / [36m304[0m 59.617 ms - -[0m
+[0mGET / [36m304[0m 60.262 ms - -[0m
+[0mGET / [36m304[0m 62.765 ms - -[0m
+[0mGET / [36m304[0m 60.586 ms - -[0m
+[0mGET / [36m304[0m 60.324 ms - -[0m
+[0mGET / [36m304[0m 60.472 ms - -[0m
+[0mGET / [36m304[0m 60.003 ms - -[0m
+[0mGET / [36m304[0m 65.752 ms - -[0m
+[0mGET / [36m304[0m 62.154 ms - -[0m
+[0mGET / [32m200[0m 34.213 ms - 6761[0m
+[0mGET / [36m304[0m 61.868 ms - -[0m
+[0mGET / [36m304[0m 57.036 ms - -[0m
+[0mGET / [36m304[0m 64.421 ms - -[0m
+[0mGET / [32m200[0m 59.413 ms - 6773[0m
+[0mGET / [36m304[0m 35.107 ms - -[0m
+[0mGET /users/sign-out [36m302[0m 7.809 ms - 46[0m
+[0mGET / [32m200[0m 20.699 ms - 4616[0m
+[0mGET /users/sign-in [36m304[0m 8.600 ms - -[0m
+[0mPOST /users/create-session [36m302[0m 6.590 ms - 46[0m
+[0mGET / [32m200[0m 21.776 ms - 6774[0m
+[0mGET /users/sign-out [36m302[0m 6.019 ms - 46[0m
+[0mGET / [32m200[0m 21.260 ms - 4616[0m
+[0mGET / [36m304[0m 24.063 ms - -[0m
+[0mGET / [32m200[0m 47.037 ms - 6774[0m

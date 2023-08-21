@@ -1,0 +1,60 @@
+::1 - - [18/Aug/2023:08:53:31 +0000] "GET / HTTP/1.1" 304 - "http://localhost:8002/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:08:53:31 +0000] "GET /css/layout-ad7fced993.css HTTP/1.1" 404 164 "http://localhost:8002/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:08:53:31 +0000] "GET /css/header-867f97f8c7.css HTTP/1.1" 404 164 "http://localhost:8002/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:08:53:31 +0000] "GET /css/home.css HTTP/1.1" 404 151 "http://localhost:8002/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:08:53:31 +0000] "GET /css/chat_box.css HTTP/1.1" 404 155 "http://localhost:8002/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:08:53:31 +0000] "GET /css/footer-80b8801692.css HTTP/1.1" 404 164 "http://localhost:8002/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:08:53:31 +0000] "GET /js/chat_engine.js HTTP/1.1" 404 156 "http://localhost:8002/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+[0mGET / [32m200[0m 105.131 ms - 4536[0m
+[0mGET /js/chat_engine.js [33m404[0m 3.749 ms - 156[0m
+[0mGET /users/sign-in [32m200[0m 22.282 ms - 1252[0m
+[0mGET /users/css/layout.css [33m404[0m 13.246 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 8.878 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 7.478 ms - 159[0m
+[0mGET / [36m304[0m 92.983 ms - -[0m
+[0mGET /css/layout.css [33m404[0m 3.887 ms - 153[0m
+[0mGET /js/chat_engine.js [33m404[0m 5.242 ms - 156[0m
+[0mGET /css/header.css [33m404[0m 6.388 ms - 153[0m
+[0mGET /css/chat_box.css [33m404[0m 1.857 ms - 155[0m
+[0mGET /css/footer.css [33m404[0m 5.224 ms - 153[0m
+[0mGET /css/home.css [33m404[0m 1.440 ms - 151[0m
+[0mGET / [36m304[0m 58.245 ms - -[0m
+[0mGET /css/layout.css [33m404[0m 5.650 ms - 153[0m
+[0mGET /js/chat_engine.js [33m404[0m 2.546 ms - 156[0m
+[0mGET /css/header.css [33m404[0m 1.599 ms - 153[0m
+[0mGET /css/footer.css [33m404[0m 1.553 ms - 153[0m
+[0mGET /css/home.css [33m404[0m 6.374 ms - 151[0m
+[0mGET /css/chat_box.css [33m404[0m 6.969 ms - 155[0m
+[0mGET / [36m304[0m 51.231 ms - -[0m
+[0mGET /css/layout.css [33m404[0m 1.595 ms - 153[0m
+[0mGET /js/chat_engine.js [33m404[0m 1.718 ms - 156[0m
+[0mGET /css/header.css [33m404[0m 3.304 ms - 153[0m
+[0mGET /css/footer.css [33m404[0m 1.880 ms - 153[0m
+[0mGET /css/home.css [33m404[0m 2.511 ms - 151[0m
+[0mGET /css/chat_box.css [33m404[0m 3.103 ms - 155[0m
+[0mGET / [36m304[0m 98.450 ms - -[0m
+[0mGET /js/chat_engine.js [33m404[0m 6.810 ms - 156[0m
+::1 - - [18/Aug/2023:09:00:44 +0000] "GET / HTTP/1.1" 200 1732 "http://localhost:8002/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:09:00:44 +0000] "GET /css/layout-ad7fced993.css HTTP/1.1" 404 164 "http://localhost:8002/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:09:00:44 +0000] "GET /css/header-867f97f8c7.css HTTP/1.1" 404 164 "http://localhost:8002/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:09:00:44 +0000] "GET /css/footer-80b8801692.css HTTP/1.1" 404 164 "http://localhost:8002/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:09:00:44 +0000] "GET /css/home.css HTTP/1.1" 404 151 "http://localhost:8002/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:09:00:44 +0000] "GET /css/chat_box.css HTTP/1.1" 404 155 "http://localhost:8002/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:09:00:44 +0000] "GET /js/chat_engine.js HTTP/1.1" 404 156 "http://localhost:8002/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:09:00:48 +0000] "GET / HTTP/1.1" 304 - "http://localhost:8002/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:09:00:48 +0000] "GET /css/layout-ad7fced993.css HTTP/1.1" 404 164 "http://localhost:8002/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:09:00:48 +0000] "GET /css/header-867f97f8c7.css HTTP/1.1" 404 164 "http://localhost:8002/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:09:00:48 +0000] "GET /css/footer-80b8801692.css HTTP/1.1" 404 164 "http://localhost:8002/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:09:00:48 +0000] "GET /css/home.css HTTP/1.1" 404 151 "http://localhost:8002/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:09:00:48 +0000] "GET /css/chat_box.css HTTP/1.1" 404 155 "http://localhost:8002/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:09:00:48 +0000] "GET /js/chat_engine.js HTTP/1.1" 404 156 "http://localhost:8002/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:18:24:57 +0000] "GET / HTTP/1.1" 304 - "http://localhost:8002/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:18:24:57 +0000] "GET /css/home.css HTTP/1.1" 404 151 "http://localhost:8002/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:18:24:57 +0000] "GET /css/chat_box.css HTTP/1.1" 404 155 "http://localhost:8002/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:18:24:57 +0000] "GET /js/chat_engine.js HTTP/1.1" 404 156 "http://localhost:8002/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:18:26:18 +0000] "GET / HTTP/1.1" 200 1724 "http://localhost:8002/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:18:26:18 +0000] "GET /css/home.css HTTP/1.1" 404 151 "http://localhost:8002/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:18:26:18 +0000] "GET /css/chat_box.css HTTP/1.1" 404 155 "http://localhost:8002/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:18:26:18 +0000] "GET /undefined HTTP/1.1" 404 148 "http://localhost:8002/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:18:29:59 +0000] "GET / HTTP/1.1" 200 1746 "http://localhost:8002/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+::1 - - [18/Aug/2023:18:29:59 +0000] "GET /undefined HTTP/1.1" 404 148 "http://localhost:8002/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
